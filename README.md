@@ -8,6 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-oliveira-falc%C3%A3o-751949266/)
 
 ## Minhas Linguagens
+
+<div style="display:inline_block"> <br/>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
@@ -28,4 +30,5 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+</div>
 </div>
